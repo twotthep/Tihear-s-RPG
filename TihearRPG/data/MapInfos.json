@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Opening","order":1,"parentId":0,"scrollX":546,"scrollY":310.6666666666667},
-null,
+{"id":2,"expanded":false,"name":"War Room","order":3,"parentId":1,"scrollX":893.4545454545455,"scrollY":508.3636363636364},
 {"id":3,"expanded":false,"name":"Path to Forest","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":313.3333333333333}
 ]
