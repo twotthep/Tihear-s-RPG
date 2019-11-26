@@ -1,4 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"SPT","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"SPT","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Scholar","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mafia","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sgt. DotSci","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":7,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Politician","nickname":"","note":"","profile":""}
 ]
