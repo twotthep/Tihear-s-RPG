@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"SPT","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,4],"faceIndex":2,"faceName":"FacesRPG01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Scholar","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor2_2","characterIndex":1,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,4],"faceIndex":3,"faceName":"FacesRPG01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Mafia","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Sgt_SV","characterIndex":5,"characterName":"Evil","classId":1,"equips":[1,1,2,3,4],"faceIndex":1,"faceName":"FacesRPG01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Sgt. DotSci","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"Pol_SV","characterIndex":7,"characterName":"Evil","classId":1,"equips":[1,1,2,3,4],"faceIndex":4,"faceName":"FacesRPG01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Politician","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Actor1","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":5,"maxLevel":99,"name":"SPT","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,4],"faceIndex":2,"faceName":"FacesRPG01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Scholar","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_2","characterIndex":1,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,4],"faceIndex":3,"faceName":"FacesRPG01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Mafia","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Sgt_SV","characterIndex":5,"characterName":"Evil","classId":1,"equips":[1,1,2,3,4],"faceIndex":1,"faceName":"FacesRPG01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Sgt. DotSci","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Pol_SV","characterIndex":7,"characterName":"Evil","classId":1,"equips":[1,1,2,3,4],"faceIndex":4,"faceName":"FacesRPG01","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Politician","nickname":"","note":"","profile":""}
 ]
